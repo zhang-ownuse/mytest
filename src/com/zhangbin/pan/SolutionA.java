@@ -1,0 +1,22 @@
+package com.zhangbin.pan;
+
+import java.util.Scanner;
+
+public class SolutionA {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int x = sc.nextInt();
+        int y = sc.nextInt();
+        int temp = x;
+        int res = 1;
+        while (temp <= y){
+            temp *= 2;
+            res++;
+        }
+        if (temp > y){
+            res--;
+        }
+        System.out.println(res);
+    }
+
+}

@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/com/zhangbin/SolutionFFF.java" line="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6956889b-6d25-4ec4-8f0a-fd6aaa1aa966" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/face$SolutionFFF.ic" NAME="SolutionFFF Coverage Results" MODIFIED="1619534161712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.zhangbin.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/face$SolutionB__1_.ic" NAME="SolutionB (1) Coverage Results" MODIFIED="1619750337404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.zhangbin.chao.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/face$SolutionC.ic" NAME="SolutionC Coverage Results" MODIFIED="1620183850582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.zhangbin.chao.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zhangbin/pan/SolutionA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zhangbin/chao/SloutionA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="676">
+              <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zhangbin/chao/SolutionB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1025">
+              <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#369#370#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/zhangbin/chao/SolutionC.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2522">
+              <caret line="97" column="9" lean-forward="true" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java1.8/jdk1.8.0_231/src.zip!/java/util/HashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25948">
+              <caret line="1054" column="13" selection-start-line="1054" selection-start-column="13" selection-end-line="1054" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/java1.8/jdk1.8.0_231/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48178">
+              <caret line="1924" column="18" selection-start-line="1924" selection-start-column="18" selection-end-line="1924" selection-end-column="18" />
+              <folding>
+                <element signature="e#58481#58482#0" expanded="true" />
+                <element signature="e#58518#58519#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zhangbin/LevelOrder3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="988">
+              <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zhangbin/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zhangbin/DuiPaiXu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1248">
+              <caret line="48" column="15" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/zhangbin/DanDiaoZhan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="12" column="11" selection-start-line="9" selection-start-column="9" selection-end-line="12" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>equal</find>
+      <find>add</find>
+      <find>ThreadPoolExecutor</find>
+      <find>get</find>
+      <find>compareAndSwapInt</find>
+      <find>key</find>
+      <find>HASH</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/zhangbin/TestString.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/Sloution3.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/Solution2.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/Jump3.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/ReverseParentheses1.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/TestC.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/SolutionB.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/Solution4.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/SolutionC.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/SolutionD.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/Solution5.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/SolutionE.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/S.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/AttemptLocking.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/CallableDemo.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/Storage.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/GuiBingPaiXu.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/LlevelOrder.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/LevelOrder3.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/S1.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/SolutionA.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/SolutionV.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/SolutionXA.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/ZJ1.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/DuiPaiXu.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/Node.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/DanDiaoZhan.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/SolutionFFF.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/duxiaoman/SolutionA.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/duxiaoman/SolutionB.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/da/SolutionA.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/pan/SolutionA.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/chao/SloutionA.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/chao/SolutionB.java" />
+        <option value="$PROJECT_DIR$/src/com/zhangbin/chao/SolutionC.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\develop\maven_repository\maven_repository" />
+        <option name="mavenHome" value="D:/develop/Maven/apache-maven-3.5.2-bin/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\develop\Maven\apache-maven-3.5.2-bin\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="9" />
+    <option name="y" value="20" />
+    <option name="width" value="1347" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="face" type="b2602c69:ProjectViewProjectNode" />
+              <item name="face" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="face" type="b2602c69:ProjectViewProjectNode" />
+              <item name="face" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="face" type="b2602c69:ProjectViewProjectNode" />
+              <item name="face" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zhangbin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="face" type="b2602c69:ProjectViewProjectNode" />
+              <item name="face" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="zhangbin" type="462c0819:PsiDirectoryNode" />
+              <item name="chao" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1620220319348" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SolutionC">
+    <configuration name="SloutionA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhangbin.chao.SloutionA" />
+      <module name="face" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhangbin.chao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhangbin.pan.SolutionA" />
+      <module name="face" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhangbin.pan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionB (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhangbin.chao.SolutionB" />
+      <module name="face" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhangbin.chao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhangbin.duxiaoman.SolutionB" />
+      <module name="face" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhangbin.duxiaoman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zhangbin.chao.SolutionC" />
+      <module name="face" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zhangbin.chao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SolutionC" />
+        <item itemvalue="Application.SolutionB (1)" />
+        <item itemvalue="Application.SloutionA" />
+        <item itemvalue="Application.SolutionA" />
+        <item itemvalue="Application.SolutionB" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6956889b-6d25-4ec4-8f0a-fd6aaa1aa966" name="Default Changelist" comment="" />
+      <created>1617695217345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617695217345</updated>
+      <workItem from="1617695219404" duration="4240000" />
+      <workItem from="1618017251907" duration="2020000" />
+      <workItem from="1618191102025" duration="4819000" />
+      <workItem from="1618229643888" duration="15994000" />
+      <workItem from="1618710901182" duration="24067000" />
+      <workItem from="1618902689911" duration="49493000" />
+      <workItem from="1619745410523" duration="6078000" />
+      <workItem from="1620180707215" duration="5265000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="111976000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14872068" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38353196" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5167931" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32719395" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zhangbin/SolutionB.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zhangbin/Solution.java</url>
+          <line>46</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zhangbin/CallableDemo.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zhangbin/GuiBingPaiXu.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zhangbin/GuiBingPaiXu.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zhangbin/QuickSort.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zhangbin/QuickSort.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zhangbin/SolutionFFF.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zhangbin/SolutionFFF.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zhangbin/SolutionFFF.java</url>
+          <line>54</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zhangbin/duxiaoman/SolutionA.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zhangbin/chao/SolutionB.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/zhangbin/chao/SolutionC.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/TestC.java" />
+    <entry file="jar://D:/java1.8/jdk1.8.0_231/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="234" column="16" selection-start-line="234" selection-start-column="16" selection-end-line="234" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java1.8/jdk1.8.0_231/src.zip!/java/util/TreeMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-397">
+          <caret line="170" column="73" selection-start-line="170" selection-start-column="70" selection-end-line="170" selection-end-column="73" />
+          <folding>
+            <element signature="e#5767#5768#0" expanded="true" />
+            <element signature="e#5800#5801#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java1.8/jdk1.8.0_231/src.zip!/java/util/AbstractQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="111" column="13" selection-start-line="111" selection-start-column="13" selection-end-line="111" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java1.8/jdk1.8.0_231/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="373" column="19" selection-start-line="373" selection-start-column="19" selection-end-line="373" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java1.8/jdk1.8.0_231/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="51" column="19" selection-end-line="1595" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java1.8/jdk1.8.0_231/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java1.8/jdk1.8.0_231/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="99" column="22" selection-start-line="99" selection-start-column="22" selection-end-line="99" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java1.8/jdk1.8.0_231/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="295" column="43" lean-forward="true" selection-start-line="295" selection-start-column="43" selection-end-line="295" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java1.8/jdk1.8.0_231/src.zip!/java/lang/ref/ReferenceQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java1.8/jdk1.8.0_231/src.zip!/java/util/concurrent/atomic/AtomicStampedReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="49" column="35" selection-start-line="49" selection-start-column="13" selection-end-line="49" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java1.8/jdk1.8.0_231/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="1355" column="22" selection-start-line="1355" selection-start-column="22" selection-end-line="1355" selection-end-column="22" />
+          <folding>
+            <element signature="e#19132#19133#0" expanded="true" />
+            <element signature="e#19175#19176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java1.8/jdk1.8.0_231/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="283" column="16" selection-start-line="283" selection-start-column="16" selection-end-line="283" selection-end-column="16" />
+          <folding>
+            <element signature="e#9117#9118#0" expanded="true" />
+            <element signature="e#9144#9145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/ZJ1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/SolutionXA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/Storage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="20" column="28" lean-forward="true" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/S.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/S1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="28" column="30" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/Solution4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/Solution5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/SolutionA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/SolutionB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/SolutionC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+          <folding>
+            <element signature="e#2124#2125#0" expanded="true" />
+            <element signature="e#2168#2169#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/SolutionD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/SolutionV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="692">
+          <caret line="43" column="17" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/LlevelOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/CallableDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/AttemptLocking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/SolutionFFF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1450">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/duxiaoman/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/Pan.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/qi.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/GuiBingPaiXu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/duxiaoman/SolutionA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="25" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/da/SolutionA.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/duxiaoman/SolutionB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/pan/SolutionA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/chao/SloutionA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="30" column="39" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java1.8/jdk1.8.0_231/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25948">
+          <caret line="1054" column="13" selection-start-line="1054" selection-start-column="13" selection-end-line="1054" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java1.8/jdk1.8.0_231/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48178">
+          <caret line="1924" column="18" selection-start-line="1924" selection-start-column="18" selection-end-line="1924" selection-end-column="18" />
+          <folding>
+            <element signature="e#58481#58482#0" expanded="true" />
+            <element signature="e#58518#58519#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/LevelOrder3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/DuiPaiXu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1248">
+          <caret line="48" column="15" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/DanDiaoZhan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="12" column="11" selection-start-line="9" selection-start-column="9" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/chao/SolutionB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1025">
+          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zhangbin/chao/SolutionC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2522">
+          <caret line="97" column="9" lean-forward="true" selection-start-line="97" selection-start-column="9" selection-end-line="97" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
